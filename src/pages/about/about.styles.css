@@ -1,0 +1,29 @@
+.about {
+  background-color: transparent;
+  font-size: 1.1em;
+}
+
+.profile {
+  max-width: 18em;
+ 
+}
+
+.profile:hover{
+  border: 2px solid rgba(9, 135, 151, 0.589); 
+  box-shadow:   0px 0px 16px rgba(9, 135, 151, 0.589);
+}
+
+.my-details {
+ 
+  /* box-shadow: 1px 0px 13px 0px black; */
+  box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  transition: box-shadow 0.3s ease-in-out;
+  background-color: rgba(255, 255, 255, 0.747);
+  border: 5px solid rgba(9, 135, 151, 0.589);
+  cursor: pointer;
+}
+
+.my-details:hover{
+  box-shadow: 20px 20px 0px 0px rgb(0, 0, 0);
+ 
+}
