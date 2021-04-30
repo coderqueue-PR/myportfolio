@@ -23,10 +23,10 @@ const App = () => {
       <MyCarousal />
       <MyTitleMessage />
       <MyNavbar />
-      <Particles
-        className="particles particles-box"
-        params={particlesOptions}
-      />
+//       <Particles
+//         className="particles particles-box"
+//         params={particlesOptions}
+//       />
 
       <div>
         <Parallax
